@@ -1,0 +1,107 @@
+[2019-09-27 18:23:23 *20824.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-09-27 18:23:23 *20823.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-09-27 18:23:23 *20822.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-09-27 18:23:23 *20821.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-09-27 18:23:23 *20820.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-09-27 18:23:23 *20819.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-09-27 18:23:23 *20818.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-09-27 18:23:23 *20817.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-09-27 18:23:23 $20815.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-09-27 18:23:23 $20815.0]	WARNING	swManager_check_exit_status: worker#8[pid=20825] abnormal exit, status=0, signal=1
+[2019-09-27 18:23:23 $20815.0]	WARNING	swManager_check_exit_status: worker#9[pid=20826] abnormal exit, status=0, signal=1
+[2019-09-27 18:23:23 $20815.0]	WARNING	swManager_check_exit_status: worker#10[pid=20827] abnormal exit, status=0, signal=1
+[2019-09-27 18:23:23 $20815.0]	WARNING	swManager_check_exit_status: worker#11[pid=20828] abnormal exit, status=0, signal=1
+[2019-09-27 18:23:23 #20814.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-09-27 23:18:16 $27234.0]	WARNING	swManager_loop: cannot reload task workers, task workers is not started
+[2019-09-27 23:18:51 $27234.0]	WARNING	swManager_loop: cannot reload task workers, task workers is not started
+[2019-09-27 23:31:33 $27234.0]	WARNING	swManager_loop: cannot reload task workers, task workers is not started
+[2019-09-28 11:18:41 *17899.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 11:18:45 *17899.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 11:18:45 *17899.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 11:18:46 *17899.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 11:18:46 *17899.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 11:18:46 *17899.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 11:18:47 *17899.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 11:18:52 *17899.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 11:18:53 *17899.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 11:18:53 *17899.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 11:18:56 *17899.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 11:20:45 *18434.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:03:53 *25808.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:41 *25809.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:04:51 *26011.2]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 12:07:38 *26780.1]	WARNING	connect: Invalid port argument[0]
+[2019-09-28 14:03:26 *12062.2]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=1962] does not exists
+[2019-09-28 14:03:26 *12060.0]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=2043] does not exists
+[2019-09-28 14:03:26 *12061.1]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 202 byte failed, because connection[fd=2090] is closed
+[2019-09-28 14:03:26 *12063.3]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 196 byte failed, because connection[fd=2092] is closed
+[2019-09-28 14:03:26 *12062.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 196 byte failed, because connection[fd=2091] is closed
+[2019-09-28 14:03:26 *12060.0]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=2089] does not exists
+[2019-09-28 14:03:26 *12065.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=1965] does not exists
+[2019-09-28 14:03:26 *12064.4]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=2021] does not exists
+[2019-09-28 14:03:26 *12063.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=1967] does not exists
+[2019-09-28 14:03:26 *12064.4]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=1782] does not exists
+[2019-09-28 14:03:26 *12063.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=1808] does not exists
+[2019-09-28 14:03:26 *12065.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=1554] does not exists
+[2019-09-28 14:03:26 *12067.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=2088] does not exists
+[2019-09-28 14:03:39 *12061.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=2847] does not exists

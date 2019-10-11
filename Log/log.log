@@ -1,0 +1,26 @@
+[2019-09-27 23:31:40][DEBUG][ERROR] : [Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[98] in /data/wwwroot/default/easySwoole/vendor/easyswoole/easyswoole/src/ServerManager.php:57
+Stack trace:
+#0 /data/wwwroot/default/easySwoole/vendor/easyswoole/easyswoole/src/ServerManager.php(57): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /data/wwwroot/default/easySwoole/vendor/easyswoole/easyswoole/src/Core.php(113): EasySwoole\EasySwoole\ServerManager->createSwooleServer(9501, 2, '0.0.0.0', Array, 2, 1)
+#2 /data/wwwroot/default/easySwoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /data/wwwroot/default/easySwoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /data/wwwroot/default/easySwoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(50): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /data/wwwroo at file:/data/wwwroot/default/easySwoole/vendor/easyswoole/easyswoole/src/ServerManager.php line:57]
+[2019-09-28 11:20:13][DEBUG][ERROR] : [syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) at file:/data/wwwroot/default/easySwoole/App/HttpController/Api/Index.php line:25]
+[2019-09-28 11:20:14][DEBUG][ERROR] : [syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) at file:/data/wwwroot/default/easySwoole/App/HttpController/Api/Index.php line:25]
+[2019-09-28 11:20:14][DEBUG][ERROR] : [syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) at file:/data/wwwroot/default/easySwoole/App/HttpController/Api/Index.php line:25]
+[2019-09-28 12:04:41][DEBUG][ERROR] : [connect to root@127.0.0.1 at port  fail: 2002 SQLSTATE[HY000] [2002]  at file:/data/wwwroot/default/easySwoole/vendor/easyswoole/mysqli/src/Mysqli.php line:119]
+[2019-09-28 12:04:51][DEBUG][ERROR] : [connect to root@127.0.0.1 at port  fail: 2002 SQLSTATE[HY000] [2002]  at file:/data/wwwroot/default/easySwoole/vendor/easyswoole/mysqli/src/Mysqli.php line:119]
+[2019-09-28 12:07:38][DEBUG][ERROR] : [connect to root@127.0.0.1 at port  fail: 2002 SQLSTATE[HY000] [2002]  at file:/data/wwwroot/default/easySwoole/vendor/easyswoole/mysqli/src/Mysqli.php line:119]
+[2019-09-28 12:08:04][DEBUG][ERROR] : [SQLSTATE[42S02] [1146] Table 'video.test' doesn't exist query: SELECT  * FROM test at file:/data/wwwroot/default/easySwoole/vendor/easyswoole/mysqli/src/Mysqli.php line:1577]
+[2019-09-28 15:28:47][DEBUG][ERROR] : [Class 'App\HttpController\Yaconf' not found at file:/data/wwwroot/default/easySwoole/App/HttpController/Index.php line:13]
+[2019-09-28 15:28:48][DEBUG][ERROR] : [Class 'App\HttpController\Yaconf' not found at file:/data/wwwroot/default/easySwoole/App/HttpController/Index.php line:13]
+[2019-09-28 15:28:48][DEBUG][ERROR] : [Class 'App\HttpController\Yaconf' not found at file:/data/wwwroot/default/easySwoole/App/HttpController/Index.php line:13]
+[2019-09-28 15:28:49][DEBUG][ERROR] : [Class 'App\HttpController\Yaconf' not found at file:/data/wwwroot/default/easySwoole/App/HttpController/Index.php line:13]
+[2019-09-28 15:28:49][DEBUG][ERROR] : [Class 'App\HttpController\Yaconf' not found at file:/data/wwwroot/default/easySwoole/App/HttpController/Index.php line:13]
+[2019-09-28 15:28:49][DEBUG][ERROR] : [Class 'App\HttpController\Yaconf' not found at file:/data/wwwroot/default/easySwoole/App/HttpController/Index.php line:13]
+[2019-09-28 15:28:49][DEBUG][ERROR] : [Class 'App\HttpController\Yaconf' not found at file:/data/wwwroot/default/easySwoole/App/HttpController/Index.php line:13]
+[2019-09-28 15:28:49][DEBUG][ERROR] : [Class 'App\HttpController\Yaconf' not found at file:/data/wwwroot/default/easySwoole/App/HttpController/Index.php line:13]
+[2019-09-28 15:28:50][DEBUG][ERROR] : [Class 'App\HttpController\Yaconf' not found at file:/data/wwwroot/default/easySwoole/App/HttpController/Index.php line:13]
+[2019-09-28 15:28:50][DEBUG][ERROR] : [Class 'App\HttpController\Yaconf' not found at file:/data/wwwroot/default/easySwoole/App/HttpController/Index.php line:13]
+[2019-09-28 15:28:50][DEBUG][ERROR] : [Class 'App\HttpController\Yaconf' not found at file:/data/wwwroot/default/easySwoole/App/HttpController/Index.php line:13]
